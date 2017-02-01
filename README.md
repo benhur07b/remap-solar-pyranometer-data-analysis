@@ -4,6 +4,7 @@ This Notebook is used for the Analysis of the Solar Radiation Readings of Pyrano
 
 ### RUNNING THE TOOL
 _**REQUIREMENTS**_
+
 * Python 2.7
 * jupyter
 * pandas
@@ -14,10 +15,12 @@ They are also found in the __requirements.txt__ file.
 You can install these requirements using __pip__ (__sudo pip install -r requirements.txt__ _or_ __pip install -r requirements.txt__)  
 
 _**PROCEDURE**_
+
 1. Enter the input parameters in the cell marked as "_INPUT PARAMETERS_".
 2. Run all cells above __SENSOR READING STATS__ (__Cell -> Run All Above__)
 3. Go to the cell with the code you want to run (i.e SENSOR READING STATS, MONTHLY STATS, etc)
 4. In the Toolbar above: __Cell -> Run Cells__
+
 
 ### LICENSE  
 The "REMap-Solar Pyranometer Data Analysis Tool" is provided under the GNU General Public License (GNU-GPL) v3.0
