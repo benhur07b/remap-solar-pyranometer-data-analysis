@@ -2,3 +2,8 @@ jupyter
 pandas
 numpy
 matplotlib
+gdal
+robobrowswer
+lxml
+pyproj
+requests
